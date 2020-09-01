@@ -6,12 +6,12 @@ This repository assumes a handful of industry practices and standards. We strive
 
 The following working examples can be found in this project template.
 
-- CRUD routes for a single resource
-- A Knex model providing CRUD methods for DB operations
+- CRUD [routes](examples/routes.md) for a single resource
+- A Knex [model](examples/models.md) providing CRUD methods for DB operations
 - Okta authentication verification middleware
 - eslint setup and prettier formating.
 - Jest tests for routes with mocking of database calls
-- Inline Swagger docs with a live route at `/api-docs`
+- Inline [Swagger](examples/swagger-docs.md) docs with a live route at `/api-docs`
 - Github workflow config setup to run linting, tests and upload coverage to code climate
 - docker-compose file for spinning up postgresql db. (Win10 Home requires WSL)
 
@@ -20,7 +20,7 @@ The following working examples can be found in this project template.
 The documentation can be viewed in the `/api-docs` route of your deploy (or
 [locally](https://localhost:8000/api-docs)). [See example](https://api.labsscaffolding.dev/api-docs/)
 
-Read more about the setup in the jsdoc readme [config/jsdoc.md](swagger-docs.md)
+Read more about the setup of [config/jsdoc.md](examples/swagger-docs.md)
 
 ## Requirements
 
