@@ -78,8 +78,10 @@ From your project locally run the following commands:
 - run: `npm run tests` to confirm all is setup and tests pass.
 - run: `npm run watch:dev` to start nodemon in local dev enviornment.
 
-> Make sure to update the details of the app name, description and version in
-> the `package.json` and `config/jsdoc.js` files.
+{% hint style="info" %}
+Make sure to update the details of the app name, description and version in
+the `package.json` and `config/jsdoc.js` files.
+{% endhint %}
 
 ## Contributing
 
