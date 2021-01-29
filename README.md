@@ -27,6 +27,10 @@ Labs teams must follow all [Labs Engineering Standards](https://labs.lambdaschoo
 
 ## Getting Started
 
+Here is a brief walk thru of setting up the node api application.
+
+{% embed url="https://youtu.be/eLJ0vjHhhNY" %}
+
 ### Enviornment Variables
 
 The following enviornment variables are required. the dotenv library is installed which will allow you to use a `.env` file.
