@@ -6,4 +6,5 @@
   * [Example Models](examples/models.md)
   * [Example routes of resources](examples/routes.md)
   * [Swagger Setup](examples/swagger-docs.md)
+* [Testing](testing.md)
 
