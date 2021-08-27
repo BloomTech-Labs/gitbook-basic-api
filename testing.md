@@ -1,6 +1,6 @@
 # Testing
 
-You will be using jest to write unit or endpoint unit tests in your application. Please put all of your tests for your code in the `__tests__` directory. You should get into the habit of ensuring that you have coverage for your code _before submitting a pull request_.
+You will be using jest to write function or endpoint/route unit tests in your application. Please put all of your tests for your code in the `__tests__` directory. You should get into the habit of ensuring that you have coverage for your code _before submitting a pull request_.
 
 #### Running your tests
 
